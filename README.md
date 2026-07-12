@@ -1,0 +1,95 @@
+<h1 align="center">Imamali Seyidov</h1>
+
+<p align="center">
+  <b>Physician · AI-Native Full-Stack Software Engineer · Digital Health &amp; AI Product Builder</b>
+</p>
+
+<p align="center">
+  I build practical AI-powered software products that solve real-world problems<br>
+  across healthcare, business and digital workflows.
+</p>
+
+<p align="center">
+  <a href="https://www.dr-seyidov.de"><img src="https://img.shields.io/badge/Website-dr--seyidov.de-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/imamali-seyidov-b2900a236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:info@dr-seyidov.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+## About
+
+I'm a physician based in Germany, trained in Internal Medicine, Emergency Medicine and Intensive Care Medicine, and also active in Aesthetic Medicine. Alongside clinical work, I build AI-powered software, turning real medical and operational problems into practical products from data model to interface.
+
+## Current Focus
+
+- Digital Health Products
+- AI-Powered SaaS
+- Agentic AI Systems
+- Medical Education Technology
+
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**AI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square)
+![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-1a1a1a?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-1a1a1a?style=flat-square)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Featured Projects
+
+> Most product source code is private; only high-level product information is shown.
+
+### Tably `Private`
+
+A restaurant operating system and SaaS platform with QR ordering, real-time table and kitchen workflows, multilingual interfaces and split-payment capabilities.
+
+### Medical Board Exam Platform `Private`
+
+A structured learning platform for physicians preparing for the German Facharzt examination, featuring quizzes, flashcards and interactive medical mind maps.
+
+### German Tax Document Assistant `Private`
+
+A privacy-first document assistant that helps families in Germany prepare their income tax documents. High-level capabilities: OCR-based document reading, encrypted document storage, GDPR tooling, multilingual support and a unit-tested tax rules engine.
+
+### Trading Analytics Platform `Private`
+
+An AI-assisted market intelligence and analytics platform.
+
+### Personal Website `Live`
+
+Medical practice, digital health projects and software portfolio.
+
+[www.dr-seyidov.de](https://www.dr-seyidov.de)
+
+## Connect
+
+- Website: [www.dr-seyidov.de](https://www.dr-seyidov.de)
+- LinkedIn: [imamali-seyidov](https://www.linkedin.com/in/imamali-seyidov-b2900a236/)
+- Email: [info@dr-seyidov.de](mailto:info@dr-seyidov.de)
