@@ -84,6 +84,12 @@ A privacy-first document assistant that helps families in Germany prepare their 
 
 An AI-assisted market intelligence and analytics platform.
 
+### AI Trading Signal Platform `Live`
+
+A full-stack SaaS that streams real-time market pattern signals produced by an automated technical-analysis pipeline. Features a live signal feed with pattern matching, historical-similarity scoring and confidence rankings, email registration with an admin approval workflow, a mandatory risk-acknowledgement and legal layer, and a fully serverless cloud architecture. Guests can browse the live interface while detailed signal data stays gated behind registration. Signals are framed as educational pattern-recognition support, not financial advice.
+
+[1-minute-signal.vercel.app](https://1-minute-signal.vercel.app)
+
 ### Personal Website `Live`
 
 Medical practice, digital health projects and software portfolio.
