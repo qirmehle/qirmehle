@@ -86,7 +86,7 @@ An AI-assisted market intelligence and analytics platform.
 
 ### AI Trading Signal Platform `Live`
 
-A full-stack SaaS that streams real-time market pattern signals produced by an automated technical-analysis pipeline. Features a live signal feed with pattern matching, historical-similarity scoring and confidence rankings, email registration with an admin approval workflow, a mandatory risk-acknowledgement and legal layer, and a fully serverless cloud architecture. Guests can browse the live interface while detailed signal data stays gated behind registration. Signals are framed as educational pattern-recognition support, not financial advice.
+An end-to-end trading-signal SaaS designed, built and shipped to production on a fully serverless, event-driven architecture: market alerts are ingested through a webhook, persisted to a Postgres database and served through a real-time API and web app. It includes email authentication with role-based access control, an admin approval workflow, and access control enforced at the API layer, so sensitive signal data is never exposed to unauthorized visitors (guests see the live interface, but instrument data is withheld server-side, not just hidden in the UI). Admin-labeled feedback is captured as training data for controlled model calibration. Built with a mandatory risk-acknowledgement and legal layer; signals are educational pattern-recognition support, not financial advice.
 
 [1-minute-signal.vercel.app](https://1-minute-signal.vercel.app)
 
