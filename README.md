@@ -66,11 +66,13 @@ I'm a physician based in Germany, trained in Internal Medicine, Emergency Medici
 
 > Most product source code is private; only high-level product information is shown.
 
-### Tably `Private` · [Live Demo](https://tably-demo-two.vercel.app/demo)
+### Tably `Private` · [Live Demo](https://tably-demo-two.vercel.app/demo) · [Demo Video](https://drive.google.com/file/d/12pML24-tkFDdSg4-haZyXRKW6N1nzzNN/view)
 
 A restaurant operating system and SaaS platform with QR ordering, real-time table and kitchen workflows, multilingual interfaces (DE/TR/EN) and split-payment capabilities.
 
 **[▶ Try the live demo](https://tably-demo-two.vercel.app/demo)** — a self-guided 5-minute tour: scan a table QR code, order as a guest, split and pay the bill, then manage it all from the staff panel. The demo runs on an isolated environment with sample data only; payments are simulated (no real transactions) and the source code remains private.
+
+**[🎬 Watch the demo video](https://drive.google.com/file/d/12pML24-tkFDdSg4-haZyXRKW6N1nzzNN/view)** — a guided walkthrough of the product and its core workflows.
 
 ### Medical Board Exam Platform `Private`
 
