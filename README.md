@@ -66,11 +66,13 @@ I'm a physician based in Germany, trained in Internal Medicine, Emergency Medici
 
 > Most product source code is private; only high-level product information is shown.
 
-### randevu `Prototype · In development` · [Project showcase](projects/randevu/README.md)
+### randevu `Prototype · In development` · [Project showcase](projects/randevu/README.md) · [Demo video](projects/randevu/assets/randevu-demo-de.mp4)
 
 An appointment-matching prototype for Germany. Patients submit a treatment request and their availability; practices provide open appointment slots. The prototype demonstrates suitable suggestions, alternative times and patient confirmation across multiple specialties, including dentistry and physiotherapy.
 
-**Early interactive prototype with synthetic example data.** Not a publicly available medical service. The showcase contains a selected demo screenshot and a product overview; the application source code remains private.
+**[▶ Watch the 65-second demo (German)](projects/randevu/assets/randevu-demo-de.mp4)** — a screen-recorded walkthrough of the patient request, practice availability, appointment offer and confirmation.
+
+**Early interactive prototype with synthetic example data.** Not a publicly available medical service. The showcase contains a demo video, a selected screenshot and a product overview; the application source code remains private.
 
 ### Tably `Private` · [Live Demo](https://tably-demo-two.vercel.app/demo) · [Demo Video](https://drive.google.com/file/d/12pML24-tkFDdSg4-haZyXRKW6N1nzzNN/view)
 

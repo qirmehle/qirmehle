@@ -4,9 +4,15 @@
 
 **Status: Erster interaktiver Prototyp · In Entwicklung · Stand: September 2026**
 
-Ich entwickle randevu als eigenes Digital-Health-Projekt für Deutschland: Patientinnen und Patienten hinterlegen ihren Terminwunsch; Praxen und Kliniken melden freie Zeitfenster. Der Prototyp zeigt, wie daraus passende Terminvorschläge entstehen und wie Patientinnen und Patienten vor einer Bestätigung selbst entscheiden.
+randevu ist ein Digital-Health-Prototyp für Deutschland: Patientinnen und Patienten hinterlegen ihren Terminwunsch; Praxen und Kliniken melden freie Zeitfenster. Der Prototyp zeigt, wie daraus passende Terminvorschläge entstehen und wie Patientinnen und Patienten vor einer Bestätigung selbst entscheiden.
 
 > Diese Projektvorstellung zeigt ausschließlich synthetische Beispieldaten. randevu ist noch kein öffentlich nutzbarer medizinischer Dienst. Die abgebildeten Termine sind nicht buchbar. „randevu“ ist ein vorläufiger Arbeitsname.
+
+## Demo-Video
+
+**[▶ Demo ansehen · 65 Sekunden · Deutsch](assets/randevu-demo-de.mp4)**
+
+Die Bildschirmaufnahme zeigt einen Terminwunsch, zeitliche Alternativen, eine freie Praxiskapazität sowie Angebot und Bestätigung im Prototyp. Sämtliche dargestellten Personen, Praxisangaben und Termine sind fiktive Beispieldaten. Der tatsächliche Nutzen muss im Praxisalltag noch geprüft werden.
 
 ![Startseite des randevu-Prototyps mit sichtbarer Demo-Kennzeichnung und einem fiktiven Terminvorschlag](assets/randevu-prototype.jpg)
 
@@ -31,10 +37,10 @@ Produktkonzept, Gestaltung der Nutzerabläufe und Entwicklung des Prototyps. Im 
 
 ## Öffentlicher Umfang
 
-Diese Seite ist eine Portfoliovorstellung mit einer ausgewählten Demoansicht. Der Anwendungscode bleibt privat; diese Veröffentlichung enthält keine Zugangsdaten, echten Patientendaten oder internen Implementierungsunterlagen. Ein öffentlicher Testzugang wird hier nicht angeboten.
+Diese Seite ist eine Portfoliovorstellung mit einem Demo-Video und einer ausgewählten Demoansicht. Der Anwendungscode bleibt privat; diese Veröffentlichung enthält keine Zugangsdaten, echten Patientendaten oder internen Implementierungsunterlagen. Ein öffentlicher Testzugang wird hier nicht angeboten.
 
 ## English summary
 
-randevu is an early appointment-matching prototype for Germany, currently in development. It demonstrates patient requests, practice availability, appointment suggestions and patient confirmation using synthetic example data. This portfolio page is a product preview, not a publicly available medical service; the application source code remains private.
+randevu is an early appointment-matching prototype for Germany, currently in development. It demonstrates patient requests, practice availability, appointment suggestions and patient confirmation using synthetic example data. The [65-second German demo video](assets/randevu-demo-de.mp4) shows the workflow with fictitious data. This portfolio page is a product preview, not a publicly available medical service; the application source code remains private.
 
 [Zurück zum Portfolio von Imamali Seyidov](../../README.md)
