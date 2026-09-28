@@ -10,7 +10,9 @@ randevu ist ein Digital-Health-Prototyp für Deutschland: Patientinnen und Patie
 
 ## Demo-Video
 
-**[▶ Demo ansehen · 65 Sekunden · Deutsch](assets/randevu-demo-de.mp4)**
+[![randevu Demo-Video: Freie Termine. Passende Menschen. – Prototyp in Entwicklung mit fiktiven Beispieldaten](assets/randevu-demo-cover.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7510263197216616448/)
+
+**[▶ Auf LinkedIn ansehen · 65 Sekunden · Deutsch](https://www.linkedin.com/feed/update/urn:li:activity:7510263197216616448/)** · [MP4 herunterladen](https://github.com/qirmehle/qirmehle/raw/refs/heads/main/projects/randevu/assets/randevu-demo-de.mp4)
 
 Die Bildschirmaufnahme zeigt einen Terminwunsch, zeitliche Alternativen, eine freie Praxiskapazität sowie Angebot und Bestätigung im Prototyp. Sämtliche dargestellten Personen, Praxisangaben und Termine sind fiktive Beispieldaten. Der tatsächliche Nutzen muss im Praxisalltag noch geprüft werden.
 
@@ -41,6 +43,6 @@ Diese Seite ist eine Portfoliovorstellung mit einem Demo-Video und einer ausgew�
 
 ## English summary
 
-randevu is an early appointment-matching prototype for Germany, currently in development. It demonstrates patient requests, practice availability, appointment suggestions and patient confirmation using synthetic example data. The [65-second German demo video](assets/randevu-demo-de.mp4) shows the workflow with fictitious data. This portfolio page is a product preview, not a publicly available medical service; the application source code remains private.
+randevu is an early appointment-matching prototype for Germany, currently in development. It demonstrates patient requests, practice availability, appointment suggestions and patient confirmation using synthetic example data. The [65-second German demo video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7510263197216616448/) shows the workflow with fictitious data. This portfolio page is a product preview, not a publicly available medical service; the application source code remains private.
 
 [Zurück zum Portfolio von Imamali Seyidov](../../README.md)
