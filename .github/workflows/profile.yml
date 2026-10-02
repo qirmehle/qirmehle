@@ -1,0 +1,24 @@
+name: Profile checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  documentation:
+    name: Markdown and local links
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          fetch-depth: 2
+      - name: Check changed text for whitespace errors
+        run: git diff --check HEAD~1 HEAD
+      - name: Check portfolio document links
+        run: python3 .github/scripts/check_profile.py

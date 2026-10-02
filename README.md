@@ -1,17 +1,17 @@
 <h1 align="center">Imamali Seyidov</h1>
 
 <p align="center">
-  <b>Physician · AI-Native Full-Stack Software Engineer · Digital Health &amp; AI Product Builder</b>
+  <b>Specialist in Internal Medicine | Independent Software Developer | Clinical Workflows &amp; Digital Health</b>
 </p>
 
 <p align="center">
-  I build practical AI-powered software products that solve real-world problems<br>
-  across healthcare, business and digital workflows.
+  I translate clinical and operational needs into practical software —<br>
+  from workflow design and data models to web applications.
 </p>
 
 <p align="center">
   <a href="https://www.dr-seyidov.de"><img src="https://img.shields.io/badge/Website-dr--seyidov.de-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/imamali-seyidov-b2900a236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/imamaliseyidov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:info@dr-seyidov.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -19,16 +19,22 @@
 
 ## About
 
-I'm a physician based in Germany, trained in Internal Medicine, Emergency Medicine and Intensive Care Medicine, and also active in Aesthetic Medicine. Alongside clinical work, I build AI-powered software, turning real medical and operational problems into practical products from data model to interface.
+I'm a specialist in Internal Medicine in Germany (Facharzt für Innere Medizin), with an additional qualification in Emergency Medicine (Zusatzbezeichnung Notfallmedizin) and clinical experience in intensive care and other hospital settings.
+
+Alongside clinical work, I independently develop digital products for healthcare and operational workflows. My work connects an understanding of day-to-day clinical needs with product design, data models, user interfaces and server-side logic.
+
+I use AI-assisted development tools, code review and targeted testing throughout the development process. My experience comes from building and refining my own projects, with a focus on understandable workflows and practical outcomes.
 
 ## Current Focus
 
-- Digital Health Products
-- AI-Powered SaaS
-- Agentic AI Systems
-- Medical Education Technology
+- Clinical workflows and digital health products
+- Practical AI applications and workflow automation
+- Web applications and operational SaaS
+- Medical education technology
 
 ## Tech Stack
+
+Tools and technologies used across my projects and development workflow:
 
 **Languages**
 
@@ -64,7 +70,7 @@ I'm a physician based in Germany, trained in Internal Medicine, Emergency Medici
 
 ## Featured Projects
 
-> Most product source code is private; only high-level product information is shown.
+> Most product source code is private. This profile presents selected projects, demos and high-level technical information; each project's current status is stated below.
 
 ### randevu `Prototype · In development` · [Project showcase](projects/randevu/README.md) · [Video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7510263197216616448/)
 
@@ -76,40 +82,48 @@ An appointment-matching prototype for Germany. Patients submit a treatment reque
 
 **Early interactive prototype with synthetic example data.** Not a publicly available medical service. The showcase contains a demo video, a selected screenshot and a product overview; the application source code remains private.
 
-### Tably `Private` · [Live Demo](https://tably-demo-two.vercel.app/demo) · [Demo Video](https://drive.google.com/file/d/12pML24-tkFDdSg4-haZyXRKW6N1nzzNN/view)
+### ArztFlow `Local MVP · Private source` · [Project showcase](https://github.com/qirmehle/arztflow-portfolio)
 
-A restaurant operating system and SaaS platform with QR ordering, real-time table and kitchen workflows, multilingual interfaces (DE/TR/EN) and split-payment capabilities.
+A prototype for coordinating physician shifts between staffing agencies and doctors: record a shift, check availability, send a targeted request and receive a response in one portal.
 
-**[▶ Try the live demo](https://tably-demo-two.vercel.app/demo)** — a self-guided 5-minute tour: scan a table QR code, order as a guest, split and pay the bill, then manage it all from the staff panel. The demo runs on an isolated environment with sample data only; payments are simulated (no real transactions) and the source code remains private.
-
-**[🎬 Watch the demo video](https://drive.google.com/file/d/12pML24-tkFDdSg4-haZyXRKW6N1nzzNN/view)** — a guided walkthrough of the product and its core workflows.
+The public showcase contains a German demo video and selected views of the local application. **All displayed people and institutions are synthetic examples. The application is not released for live clinical staffing.**
 
 ### Medical Board Exam Platform `Private`
 
 A structured learning platform for physicians preparing for the German Facharzt examination, featuring quizzes, flashcards and interactive medical mind maps.
 
+### Tably `Public demo · Private source` · [Live Demo](https://tably-demo-two.vercel.app/demo) · [Demo Video](https://drive.google.com/file/d/12pML24-tkFDdSg4-haZyXRKW6N1nzzNN/view)
+
+A restaurant operating system and SaaS platform with QR ordering, real-time table and kitchen workflows, multilingual interfaces (DE/TR/EN) and split-payment capabilities.
+
+The private implementation includes transactional payment reservations, server-side role checks, money-calculation unit tests and a separate payment-concurrency test script.
+
+**[▶ Try the live demo](https://tably-demo-two.vercel.app/demo)** — a self-guided 5-minute tour: scan a table QR code, order as a guest, split and pay the bill, then manage it all from the staff panel. The demo runs on an isolated environment with sample data only; payments are simulated (no real transactions) and the source code remains private.
+
+**[🎬 Watch the demo video](https://drive.google.com/file/d/12pML24-tkFDdSg4-haZyXRKW6N1nzzNN/view)** — a guided walkthrough of the product and its core workflows.
+
 ### German Tax Document Assistant `Private`
 
-A privacy-first document assistant that helps families in Germany prepare their income tax documents. High-level capabilities: OCR-based document reading, encrypted document storage, GDPR tooling, multilingual support and a unit-tested tax rules engine.
+A document assistant for organizing German income tax paperwork, with OCR-based document reading and multilingual workflows. The source code remains private.
+
+### Personal Website `Live`
+
+My medical practice website, with information about clinical services and an appointment-request interface.
+
+[www.dr-seyidov.de](https://www.dr-seyidov.de)
 
 ### Trading Analytics Platform `Private`
 
 An AI-assisted market intelligence and analytics platform.
 
-### AI Trading Signal Platform `Live`
+### AI Trading Signal Platform `Live web app · Private source`
 
-An end-to-end trading-signal SaaS built around a self-designed signal-detection algorithm, shipped to production on a fully serverless, event-driven architecture. The algorithm evaluates live market data and emits pattern-based signals through a webhook, which are persisted to a Postgres database and served through a real-time API and web app. It includes email authentication with role-based access control, an admin approval workflow, and access control enforced at the API layer, so sensitive signal data is never exposed to unauthorized visitors (guests see the live interface, but instrument data is withheld server-side, not just hidden in the UI). Admin-labeled feedback is captured as training data for controlled model calibration. Built with a mandatory risk-acknowledgement and legal layer; signals are educational pattern-recognition support, not financial advice.
+A web application for observing technical market patterns, with email sign-in, an approval workflow, risk acknowledgement and a periodically refreshed dashboard. The interface presents pattern scores and supports structured feedback for further evaluation. Its outputs are educational market observations, not personalized investment advice or a guarantee of performance.
 
 [1-minute-signal.vercel.app](https://1-minute-signal.vercel.app)
-
-### Personal Website `Live`
-
-Medical practice, digital health projects and software portfolio.
-
-[www.dr-seyidov.de](https://www.dr-seyidov.de)
 
 ## Connect
 
 - Website: [www.dr-seyidov.de](https://www.dr-seyidov.de)
-- LinkedIn: [imamali-seyidov](https://www.linkedin.com/in/imamali-seyidov-b2900a236/)
+- LinkedIn: [Imamali Seyidov](https://www.linkedin.com/in/imamaliseyidov/)
 - Email: [info@dr-seyidov.de](mailto:info@dr-seyidov.de)
